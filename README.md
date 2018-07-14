@@ -7,5 +7,5 @@
 
 ### 0. jdk 1.8.x 이상 설치
 ### 1. booksearch.jar 다운로드
-### 2. java -jar booksearch.jar
+### 2. > java -jar booksearch.jar 로 실행합니다.
 ### 3. 브라우저에서 locahost:8080 으로 접속합니다.
